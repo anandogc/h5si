@@ -86,7 +86,7 @@ void read_test() {
 	if (max(abs(A-A_orig)) > MY_EPS)
 		cerr << "Error in reading." << endl;
 	else
-		cout << "All is well."
+		cout << "All is well.";
 }
 
 int main(int argc, char *argv[])
