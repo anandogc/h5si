@@ -1,6 +1,6 @@
 # H5SI
 #
-# Copyright 2020 Mahendra K. Verma, Anando Gopal Chatterjee
+# Copyright (C) 2020, Mahendra K. Verma, Anando Gopal Chatterjee
 #
 # Mahendra K. Verma
 # Indian Institute of Technology, Kanpur-208016
