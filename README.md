@@ -1,5 +1,5 @@
 Prerequisite:
-HDF5, Blitz++
+HDF5(tested upto v1.8.20), Blitz++
 
 
 CMake usage:
